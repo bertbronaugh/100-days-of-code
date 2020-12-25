@@ -8,12 +8,10 @@
 
 **Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
 
-### Day 1: June 27, Monday (Example)
+### Day X: June 27, Monday (Template)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I did stuff.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I thought about stuff.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Links to stuff](http://example.com)
