@@ -8,7 +8,15 @@
 
 **Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
 
-### Day X: June 27, Monday (Template)
+### Day 2: December 25
+
+**Today's Progress**: Started connecting the GUI to the parser program. Figuring out not only how to import a module, but actually get it to run. Need to keep appending self. to functions and adding self as the first parameter of said functions.
+
+**Thoughts**: Python classes/functions keep passing self in. I guess it doesn't want to be left out of anything.
+
+**Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
+
+### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
 
