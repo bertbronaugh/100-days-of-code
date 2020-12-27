@@ -16,6 +16,14 @@
 
 **Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
 
+### Day 3: December 26
+
+**Today's Progress**: Finished debugging/testing the GUI. It now fires the parser and works as before! Also got same-directory Output to work.
+
+**Thoughts** Actually spent the full hour, instead of less than 30 mins like I was expecting. Next, I'll see about adding a Browse button/functionality to allow for custom input paths/files.
+
+**Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
