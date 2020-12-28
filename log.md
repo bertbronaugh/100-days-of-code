@@ -32,6 +32,14 @@
 
 **Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
 
+### Day 5: December 28
+
+**Today's Progress**: Got the Parse button onto the Canvas, added the Browse button. Got it working as a fileDialog process. Started work on getting this to flow into the Parser. Pick back up on line 165 next.
+
+**Thoughts** Still don't understand tkinter wizardry, but at least this is more closely resembling a decent app. Comparing it in my mind to Royce's shape file parser, which could also be a good next project update idea to keep in mind.
+
+**Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
