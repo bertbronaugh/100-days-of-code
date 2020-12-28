@@ -24,6 +24,14 @@
 
 **Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
 
+### Day 4: December 27
+
+**Today's Progress**: Tinkered more with tkinter and getting an Entry box on the screen. Start back up on line 19, moving the other objects onto the Canvas.
+
+**Thoughts** Tkinter is hard, but not terribly so.
+
+**Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
