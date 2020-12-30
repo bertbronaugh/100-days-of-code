@@ -40,6 +40,17 @@
 
 **Link to work:** [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)
 
+### Day 6: December 29
+
+**Today's Progress**: Got the file path field to properly pass the path on to the parser. With some more tweaks, we now have a fully working, albeit primitive version of the parser. There's still a lot of room for polish and updates, but at least someone could download this project and run it (provided they're on the latest version of Python). I also created a Release (v0.1.0) on GitHub.
+
+**Thoughts** Even an MVP (Minimum Viable Product) takes a bit of work. At last now I feel I can move over to the New World Data Comparison project. Also, creating an actual Release feels pretty official.
+
+**Link to work:**
+
+* [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser) 
+* [IncHelp Parser v0.1.0 Release](https://github.com/bertbronaugh/IncHelpParser/releases/tag/v.0.1.0)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
