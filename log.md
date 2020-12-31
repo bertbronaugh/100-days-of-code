@@ -51,6 +51,14 @@
 * [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser) 
 * [IncHelp Parser v0.1.0 Release](https://github.com/bertbronaugh/IncHelpParser/releases/tag/v.0.1.0)
 
+### Day 7: December 30
+
+**Today's Progress**: Made some good progress on the NWData project. Started laying the groundwork for the Processor and TestAide classes.
+
+**Thoughts** It's been a while since I used Typescript/Angular, so it's been a bit like remembering how to ride a bike again. Trying to remember to atomize functions and KISS where I can.
+
+**Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
