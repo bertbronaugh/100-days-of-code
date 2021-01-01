@@ -67,6 +67,14 @@
 
 **Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
+### Day 9: January 1
+
+**Today's Progress**: Started laying the groundwork on the Library. Still tinkering with showing/manipulating the Sections.
+
+**Thoughts** Actually spent a couple of hours on this today, mostly because I just got so caught up in it (and it was during naptime). After some thought, creating a Library to house the different sections just seemed like a great way to organize everything. This way, each section can be processed and organized as needed without interfering with other sections. Each Section can be a standalone item, but still contained within the overall Library.
+
+**Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
