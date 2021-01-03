@@ -75,6 +75,14 @@
 
 **Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
+### Day 10: January 2
+
+**Today's Progress**: Yay, settings are borked!
+
+**Thoughts** So....whoops. My tinkering around with .NET Core (and the supplied IIS Express install) from the NWData project ended up breaking my current IIS settings. Tried to debug another (previously working) app earlier today and got some new errors. Spent time trying to get NWData to play nice on IIS. Ultimately decided to start trying to get NWData Dockerized, because I'd really rather not have to plead/cajole IIS into working every time I want to switch to/from my other apps.
+
+**Link to work:** [Links to stuff](http://example.com)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
