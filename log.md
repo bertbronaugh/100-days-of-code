@@ -83,6 +83,14 @@
 
 **Link to work:** [Links to stuff](http://example.com)
 
+### Day 11: January 4
+
+**Today's Progress**: Read up some on Terraform.
+
+**Thoughts** Skipped yesterday because time got away from me. Almost missed today, but decided to read up on Terraform a bit. I've been considering restarting my Tyler server and getting it going as a CI/CD target, both for existing and new projects.
+
+**Link to work:** [Terraform](https://www.terraform.io/)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
