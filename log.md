@@ -81,7 +81,7 @@
 
 **Thoughts** So....whoops. My tinkering around with .NET Core (and the supplied IIS Express install) from the NWData project ended up breaking my current IIS settings. Tried to debug another (previously working) app earlier today and got some new errors. Spent time trying to get NWData to play nice on IIS. Ultimately decided to start trying to get NWData Dockerized, because I'd really rather not have to plead/cajole IIS into working every time I want to switch to/from my other apps.
 
-**Link to work:** [Links to stuff](http://example.com)
+**Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
 ### Day 11: January 4
 
@@ -90,6 +90,14 @@
 **Thoughts** Skipped yesterday because time got away from me. Almost missed today, but decided to read up on Terraform a bit. I've been considering restarting my Tyler server and getting it going as a CI/CD target, both for existing and new projects.
 
 **Link to work:** [Terraform](https://www.terraform.io/)
+
+### Day 12: January 5
+
+**Today's Progress**: Added container orchestration support to the project (I think). Didn't work, so started a new project from scratch to try and get Docker going.
+
+**Thoughts** I just want to be able to run this without breaking other stuff. It spins up a container image via Docker Compose on the Docker Desktop status window, so that's something I guess? Of course, it still doesn't run when I start Debugging. "An unhandled exception occurred while processing the request." Yaaaaay. I started a fresh project and added Docker Support right away, which made it start up a container. Wasn't accessible via the browser, though. Tried doing a build. If I can at least get the boilerplate project to run in Docker, I'll copy over my previous NWData page work and go from there. Build works, but can't debug. "SocketException: No connection could be made because the target machine actively refused it." I think I need to check the "Expose daemon on tcp://localhost:2375 without TLS" box in Docker Desktop.
+
+**Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
 ### Day X: Month Day (Template)
 
