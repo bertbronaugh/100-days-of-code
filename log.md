@@ -99,6 +99,14 @@
 
 **Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
+### Day 13: January 6
+
+**Today's Progress**: More Docker tinkering, project restarts.
+
+**Thoughts** I think I'm at the spaghetti stage now, where I'm just throwing stuff at the wall and hoping something sticks enough to get my project running again. Spent a good amount of time tonight trying to get a boilerplate project going, but no luck. Maybe I should indeed go back to IIS Express for the time being, or maybe find a way to get it to play nice with IIS. Either way, I feel like I've been spinning my wheels on this for long enough.
+
+**Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
