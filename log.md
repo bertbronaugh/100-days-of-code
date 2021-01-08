@@ -107,6 +107,14 @@
 
 **Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
+### Day 14: January 7
+
+**Today's Progress**: Restart and reconsider.
+
+**Thoughts** So, I had a realization tonight. I think I started down the wrong path with my push to get Docker up and going. My other apps seemed to actually run normally today, so maybe IIS Express wasn't the issue after all (or at least most of the issue). Second, I think I've been focusing too much on the NW Data parsing step and not on the actual comparison/mapping step. My thought was: "Why can't I just get a database connection going and work from there on getting the mapping figured out?" Breaking out and uploading the relevant sections of the NW Data is indeed relevant and can (hopefully) be addressed in the future, but the crux of the problem lies with the mapping. That's where I should be focusing my efforts. Tonight, I cleared out the project folder and started fresh. It builds/debugs happily now. I tried starting an Azure SQL Server Serverless instance, but I apparently don't have any credits on Azure yet. Still working on that, and I may need to work out a separate testing database to use for the time being, but we'll see.
+
+**Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
