@@ -115,6 +115,14 @@
 
 **Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
+### Day 15: January 8
+
+**Today's Progress**: Server shinanigans
+
+**Thoughts** Tinkering around with the Azure SQL Server. Created a Serverless instance so it wouldn't be running when I didn't need it. Kept having trouble creating the database/table I needed to start with, so ultimately ended up using what appears to be the locally created db within Visual Studio. Also started looking at tutorials for reference on creating a SQL connection from the Angular/.NET Core project.
+
+**Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: I did stuff.
