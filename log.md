@@ -123,10 +123,18 @@
 
 **Link to work:** [Brazos New World Data Comparison](https://github.com/bertbronaugh/BrazosNewWorldDataComparison)
 
+### Day 16: January 10
+
+**Today's Progress**: Maybe an API?
+
+**Thoughts** Accidentally skipped yesterday. Didn't even realize it until today. Realized the SQL Connection tutorial from earlier wasn't the right direction, so searched for some more pages to help. Found a good idea to try: an API with an Angular front-end added on. That actually makes sense, since the API will handle the CRUD heavy lifting and Angular just displays it. I intend to first follow along with this tutorial somewhat, substituting the blog posts for the "data maps" as I've come to call them.
+
+**Link to work:** [CRUD app API with Angular](https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1)
+
 ### Day X: Month Day (Template)
 
-**Today's Progress**: I did stuff.
+**Today's Progress**: ProgressGoesHere
 
-**Thoughts** I thought about stuff.
+**Thoughts** ThoughtsAboutLifeTheUniverseAndEverything
 
 **Link to work:** [Links to stuff](http://example.com)
