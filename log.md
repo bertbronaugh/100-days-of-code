@@ -131,6 +131,18 @@
 
 **Link to work:** [CRUD app API with Angular](https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1)
 
+### Day 17: January 11
+
+**Today's Progress**: I have a working API!
+
+**Thoughts** I'm surprised. I didn't think it would be this straightfoward to get a working API, and yet so difficult. The guide was written in 2019, using .NET Core 2.2, whereas I started out using 3.0. Yes, there's a difference and it's a very crucial one. Apparently, around the time 3.0 came to pass, there was a change from using MVC Routing to using Endpoint Routing. Fascinating, I know, but this threw me for a 30-45 minute loop of trying things, getting errors, Googling StackOverflow, and so on. I almost didn't realize the initial 404 Error didn't mean the API wasn't working, but that I just didn't have a GUI to use for my initial tests. I've now approached the end of the first page, and I have a working API that allows GET/POST requests. I still need to keep in mind the DataMap model should probably reflect my destination table and its columns, but that's not yet a breaking issue just yet.
+
+Oh, and I've now created a new and separate project as well. I call it DataMap, which I think is a much better and more developer-y sounding name. I'll start on Page 2 of the tutorial tomorrow.
+
+**Link to work:** 
+[CRUD app API with Angular - Page 1](https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1)
+[CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
