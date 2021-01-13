@@ -144,6 +144,16 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 [CRUD app API with Angular - Page 1](https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1)
 [CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
 
+### Day 17: January 12
+
+**Today's Progress**: Starting on the front end with Angular
+
+**Thoughts** Page 2 of the tutorial. Created the Angular front-end. Tested it. Added the components and service. Next will be updating app.module.ts.
+
+**Link to work:**
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+[CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
