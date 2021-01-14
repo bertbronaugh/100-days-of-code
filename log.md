@@ -139,9 +139,9 @@
 
 Oh, and I've now created a new and separate project as well. I call it DataMap, which I think is a much better and more developer-y sounding name. I'll start on Page 2 of the tutorial tomorrow.
 
-**Link to work:**
-[DataMapper](https://github.com/bertbronaugh/DataMapper)
-[CRUD app API with Angular - Page 1](https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1)
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)  
+[CRUD app API with Angular - Page 1](https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1)  
 [CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
 
 ### Day 17: January 12
@@ -150,8 +150,18 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 **Thoughts** Page 2 of the tutorial. Created the Angular front-end. Tested it. Added the components and service. Next will be updating app.module.ts.
 
-**Link to work:**
-[DataMapper](https://github.com/bertbronaugh/DataMapper)
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)  
+[CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
+
+### Day 18: January 13
+
+**Today's Progress**: The first wheel now turns the second. (.NET Core now starts the Angular server.)
+
+**Thoughts** Picked back up on the tutorial, learning how to get Startup.cs to start the Angular server when the API backend is started. Stumbled upon some red squigglies along the way. Evidently, 3.0 was a breaking change from 2.2, enough so that I had to pick through StackOverflow to find out what NuGet packages I needed to install. Finally banished the squigglies for the time being. Picking back up tomorrow on "Create blog post model and service methods".
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)  
 [CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
 
 ### Day X: Month Day (Template)
