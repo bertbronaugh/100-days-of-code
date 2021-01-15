@@ -166,9 +166,9 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 ### Day 19: January 14
 
-**Today's Progress**: Adding Model. Updating Service.
+**Today's Progress**: Adding Model. Updating Service. Fleshing out the components to show the data maps.
 
-**Thoughts** Added the rest of the fields for the current table that's the target of this build. Migrated the database. Stopped at 'Observables in Angular' for now.
+**Thoughts** Added the rest of the fields for the current table that's the target of this build. Migrated the database. Took a break, then came back and made some more progres. Stopped at 'blog-post-add-edit.component.ts' for now. Just need to finish going through data-map-add-edit-components and modifying all of the blogPost-related references for dataMap.
 
 **Link to work:**  
 [DataMapper](https://github.com/bertbronaugh/DataMapper)  
