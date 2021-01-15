@@ -164,6 +164,16 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 [DataMapper](https://github.com/bertbronaugh/DataMapper)  
 [CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
 
+### Day 19: January 14
+
+**Today's Progress**: Adding Model. Updating Service.
+
+**Thoughts** Added the rest of the fields for the current table that's the target of this build. Migrated the database. Stopped at 'Observables in Angular' for now.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)  
+[CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
