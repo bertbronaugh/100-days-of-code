@@ -174,6 +174,16 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 [DataMapper](https://github.com/bertbronaugh/DataMapper)  
 [CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
 
+### Day 20: January 15
+
+**Today's Progress**: Finishing updates to add-edit component.
+
+**Thoughts** Finished going through this section and cleaning everything up. I'm learning more (bit by bit) of how this all connects together, and I'm also realizing how much my idea is straying from the tutorial. Not a ton, but I'm having to take care not to skip stuff that's referencing the old BlogPost code in any way. Stopped on the section where we're editing blog-post-add-edit.component.ts.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)  
+[CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
