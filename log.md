@@ -184,6 +184,16 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 [DataMapper](https://github.com/bertbronaugh/DataMapper)  
 [CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
 
+### Day 21: January 16
+
+**Today's Progress**: Finished the tutorial. Hunting errors.
+
+**Thoughts** Finished the updates to the data-map-add-edit-component. Had some issues with the Angular CLI server not talking to .NET Core again. Learned how to increase the timeout so Core would be a little more forgiving to Angular. Unfortunately, having an issue when I hit the Add DataMap button. Errors in the Core-side output. Still investigating that.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)  
+[CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
