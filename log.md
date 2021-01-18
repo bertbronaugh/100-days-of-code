@@ -48,7 +48,7 @@
 
 **Link to work:**
 
-* [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser) 
+* [Inc Help Parser](https://github.com/bertbronaugh/IncHelpParser)  
 * [IncHelp Parser v0.1.0 Release](https://github.com/bertbronaugh/IncHelpParser/releases/tag/v.0.1.0)
 
 ### Day 7: December 30
@@ -193,6 +193,15 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 **Link to work:**  
 [DataMapper](https://github.com/bertbronaugh/DataMapper)  
 [CRUD app API with Angular - Page 2](https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap)
+
+### Day 22: January 17
+
+**Today's Progress**: IIS Express issues
+
+**Thoughts** 'Unable to connect to IIS web server. Class not registered'. Well, that's new. Restarted Visual Studio, same thing. IIS Express is running, through. Attached to the w3wp process and it worked. Or at least, it seemed to work. The Add Data Map button stil takes me to a blank screen, and I don't see any output in VS. Rebuild, debug, and same 'Unable to connect' error. I'm seeing stuff online about trying a different port, so I'll try that next time. It's pretty late and I need to call it for tonight.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper) 
 
 ### Day X: Month Day (Template)
 
