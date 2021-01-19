@@ -201,7 +201,15 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 **Thoughts** 'Unable to connect to IIS web server. Class not registered'. Well, that's new. Restarted Visual Studio, same thing. IIS Express is running, through. Attached to the w3wp process and it worked. Or at least, it seemed to work. The Add Data Map button stil takes me to a blank screen, and I don't see any output in VS. Rebuild, debug, and same 'Unable to connect' error. I'm seeing stuff online about trying a different port, so I'll try that next time. It's pretty late and I need to call it for tonight.
 
 **Link to work:**  
-[DataMapper](https://github.com/bertbronaugh/DataMapper) 
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+
+### Day 23: January 18
+
+**Today's Progress**: Internal server updates / Reading up on Tyler Deploy
+
+**Thoughts** Didn't feel up to troubleshooting the IIS Express issues. Logged back into my server, kicked off Windows updates. Can't access it via the URL, so maybe something's up with IIS. Read up on Tyler deploy. Considering setting it up to deploy my IncHelpParser to start with.
+
+**Link to work:** (No links tonight.)
 
 ### Day X: Month Day (Template)
 
