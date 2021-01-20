@@ -211,6 +211,14 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 **Link to work:** (No links tonight.)
 
+### Day 24: January 19
+
+**Today's Progress**: Connection Refused
+
+**Thoughts** Spent a bit of time puzzing about the error. I think it's due to the API url that Angular's trying to use. I'll need to come back to this and see if I can follow the trail more. My current hypothesis is that the API URL that Angular is using may not be the one set up by .NET Core. 
+
+**Link to work:** [Stack Overflow - Connection Refused question](https://stackoverflow.com/questions/52067788/failed-to-load-resource-neterr-connection-refused-nodejs)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
