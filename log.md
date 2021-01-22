@@ -219,6 +219,14 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 **Link to work:** [Stack Overflow - Connection Refused question](https://stackoverflow.com/questions/52067788/failed-to-load-resource-neterr-connection-refused-nodejs)
 
+### Day 25: January 21
+
+**Today's Progress**: Light reading about MVC
+
+**Thoughts** Skipped last night. Nearly skipped tonight. Decided to spend a bit of time reading over how MVC works. Still don't fully understand it, but it was helpful to read some about how the process works. It seems like Core could be a really powerful tool for some of the services we run. Maybe some of them could be converted and become more standalone in the future.
+
+**Link to work:** [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
