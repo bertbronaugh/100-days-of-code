@@ -227,6 +227,14 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 **Link to work:** [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
 
+### Day 26: January 22
+
+**Today's Progress**: Dr. Frankenstein's monster awakes.
+
+**Thoughts** AAAAAAAAAAAAAAAAAAAAAAAAAAAA The main page works now! I spent maybe 15-20 minutes tinkering with the API settings and trying Postman, before I figured I'd try and search for a guide using .NET Core 3.1 and Angular. Honestly I think the addMVC stuff was the monkey wrench. I was at that stage where everything API-related just seemed dumb, why am I fiddling with this, why am I not seeing progress. That whole deal. Sure, the Add portion still doesn't work, but at least the home page is displaying the one row I currently have entered. That's certainly a start. Chasing Validator errors on the Add page now.
+
+**Link to work:** [.NET Core 3.1 / Angular tutorial](https://www.c-sharpcorner.com/article/build-crud-operation-using-angular-9-and-dot-net-core-3-1-webapi-and-deploy-to-a/)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
