@@ -235,6 +235,16 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 **Link to work:** [.NET Core 3.1 / Angular tutorial](https://www.c-sharpcorner.com/article/build-crud-operation-using-angular-9-and-dot-net-core-3-1-webapi-and-deploy-to-a/)
 
+### Day 27: January 24
+
+**Today's Progress**: ProgressGoesHere
+
+**Thoughts** Skipped last night. My personal laptop died and I wasn't able to resurrect it. Wasn't really in the mood to code after that. Really late tonight when I got free, so instead of going to the trouble of spinning up DataMapper again, I decided to break ground on another project idea I had recently: Fixed Length Export Checker, or F.L.E.C. The idea is that you'll define a list of fixed length fields used by your interface on one screen/tab/etc, then switch to the "data" view and paste in a sample you want to check. It'll use that template to show you what data is in which field, along with (hopefully at some point) being able to identify/diagnose root cause(s) of a bad sample.  
+  
+Also, I have soooo much to learn about Git. I tried to be smart and ng new locally and push/create on Github, but ended up tying myself up in a digital knot. Git is some sort of magic that you have to be very careful about getting it right the first time, or you'll spend a lot of time trying to clean up the mess.
+
+**Link to work:** [F.L.E.C.](https://github.com/bertbronaugh/FixedLengthExportChecker)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
