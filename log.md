@@ -237,11 +237,19 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 ### Day 27: January 24
 
-**Today's Progress**: ProgressGoesHere
+**Today's Progress**: A New Idea Appears!
 
 **Thoughts** Skipped last night. My personal laptop died and I wasn't able to resurrect it. Wasn't really in the mood to code after that. Really late tonight when I got free, so instead of going to the trouble of spinning up DataMapper again, I decided to break ground on another project idea I had recently: Fixed Length Export Checker, or F.L.E.C. The idea is that you'll define a list of fixed length fields used by your interface on one screen/tab/etc, then switch to the "data" view and paste in a sample you want to check. It'll use that template to show you what data is in which field, along with (hopefully at some point) being able to identify/diagnose root cause(s) of a bad sample.  
   
 Also, I have soooo much to learn about Git. I tried to be smart and ng new locally and push/create on Github, but ended up tying myself up in a digital knot. Git is some sort of magic that you have to be very careful about getting it right the first time, or you'll spend a lot of time trying to clean up the mess.
+
+**Link to work:** [F.L.E.C.](https://github.com/bertbronaugh/FixedLengthExportChecker)
+
+### Day 28: January 25
+
+**Today's Progress**: Under construction
+
+**Thoughts** Moved the files up one level so I could actually build it like normal without having to cd down every time. Cleared the template HTML and started fresh. Only a few divs right now, but at least it's something.
 
 **Link to work:** [F.L.E.C.](https://github.com/bertbronaugh/FixedLengthExportChecker)
 
