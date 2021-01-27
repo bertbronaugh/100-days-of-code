@@ -253,6 +253,22 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 
 **Link to work:** [F.L.E.C.](https://github.com/bertbronaugh/FixedLengthExportChecker)
 
+### Day 29: January 26
+
+**Today's Progress**: Groundwork
+
+**Thoughts** Basic groundwork for the sample/template components, using a past project for reference.
+
+**Link to work:** [F.L.E.C.](https://github.com/bertbronaugh/FixedLengthExportChecker)
+
+### Day 30: January 27
+
+**Today's Progress**: ProgressGoesHere
+
+**Thoughts** ThoughtsAboutLifeTheUniverseAndEverything
+
+**Link to work:** [Links to stuff](http://example.com)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
