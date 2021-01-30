@@ -263,11 +263,19 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 
 ### Day 30: January 27
 
+**Today's Progress**: Light Reading
+
+**Thoughts** More study about MVC and Core. Actually feel like I'm starting to get parts of it, albeit still mostly conceptually.
+
+**Link to work:** [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
+
+### Day 31: January 29
+
 **Today's Progress**: ProgressGoesHere
 
-**Thoughts** ThoughtsAboutLifeTheUniverseAndEverything
+**Thoughts** Skipped last night, mainly due to energy. Happened to read a StackOverflow article about CI/CD and it gave me some great ideas for my current projects. The issue is that while it's great to have my server running and available as a CD target, it's on the VPN that you need to deploy to and browse to.
 
-**Link to work:** [Links to stuff](http://example.com)
+**Link to work:** [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd)
 
 ### Day X: Month Day (Template)
 
