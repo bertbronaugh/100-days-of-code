@@ -215,7 +215,7 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 **Today's Progress**: Connection Refused
 
-**Thoughts** Spent a bit of time puzzing about the error. I think it's due to the API url that Angular's trying to use. I'll need to come back to this and see if I can follow the trail more. My current hypothesis is that the API URL that Angular is using may not be the one set up by .NET Core. 
+**Thoughts** Spent a bit of time puzzing about the error. I think it's due to the API url that Angular's trying to use. I'll need to come back to this and see if I can follow the trail more. My current hypothesis is that the API URL that Angular is using may not be the one set up by .NET Core.
 
 **Link to work:** [Stack Overflow - Connection Refused question](https://stackoverflow.com/questions/52067788/failed-to-load-resource-neterr-connection-refused-nodejs)
 
@@ -225,7 +225,9 @@ Oh, and I've now created a new and separate project as well. I call it DataMap, 
 
 **Thoughts** Skipped last night. Nearly skipped tonight. Decided to spend a bit of time reading over how MVC works. Still don't fully understand it, but it was helpful to read some about how the process works. It seems like Core could be a really powerful tool for some of the services we run. Maybe some of them could be converted and become more standalone in the future.
 
-**Link to work:** [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
+**Link to work:**  
+[Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
 
 ### Day 26: January 22
 
@@ -271,11 +273,20 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 
 ### Day 31: January 29
 
-**Today's Progress**: ProgressGoesHere
+**Today's Progress**: CI/CD ideas
 
 **Thoughts** Skipped last night, mainly due to energy. Happened to read a StackOverflow article about CI/CD and it gave me some great ideas for my current projects. The issue is that while it's great to have my server running and available as a CD target, it's on the VPN that you need to deploy to and browse to.
 
 **Link to work:** [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd)
+
+### Day 31: January 31
+
+**Today's Progress**: ProgressGoesHere
+
+**Thoughts** Skipped last night as well. Returning to my Mapper project. I think I've had a long enough hiatus, and I'd like to put the CI/CD ideas into practice. First thing to do is to get rid of these Validator errors. Made a bit of progress, I think. Still having issues with what I think is Reactive Forms not playing nice with my form references. Looking at everything, I still feel like it's all a bit of the "Hokey Pokey" song. Maybe I should ask for a bit of outside help on this to get unstuck.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
 
 ### Day X: Month Day (Template)
 
