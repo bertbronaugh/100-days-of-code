@@ -281,12 +281,22 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 
 ### Day 31: January 31
 
-**Today's Progress**: ProgressGoesHere
+**Today's Progress**: Validator hokey pokey
 
 **Thoughts** Skipped last night as well. Returning to my Mapper project. I think I've had a long enough hiatus, and I'd like to put the CI/CD ideas into practice. First thing to do is to get rid of these Validator errors. Made a bit of progress, I think. Still having issues with what I think is Reactive Forms not playing nice with my form references. Looking at everything, I still feel like it's all a bit of the "Hokey Pokey" song. Maybe I should ask for a bit of outside help on this to get unstuck.
 
 **Link to work:**  
 [DataMapper](https://github.com/bertbronaugh/DataMapper)
+
+### Day 31: February 1
+
+**Today's Progress**: ProgressGoesHere
+
+**Thoughts** I. Finally. Got it. Not the entire thing of course, just the Edit page. Turns out, I was using a naming convention/process when looking for the form controls by name that it couldn't find them. I didn't think this guide was this out of date, but apparently it needed more than just the MVC/Routing updates from before. I got a lot farther on this than I expected tonight. I'm able to Add new data map entries and I'm currently investigating why I can't Edit existing ones.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+[SO Article](https://stackoverflow.com/questions/60929346/cannot-read-property-value-of-null-angular-reactive-form-get-value)
 
 ### Day X: Month Day (Template)
 
