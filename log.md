@@ -298,6 +298,15 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 [DataMapper](https://github.com/bertbronaugh/DataMapper)
 [SO Article](https://stackoverflow.com/questions/60929346/cannot-read-property-value-of-null-angular-reactive-form-get-value)
 
+### Day 32: February 2
+
+**Today's Progress**: ProgressGoesHere
+
+**Thoughts** Camel case. Caaaaamel case. That's what my problem was with the CustNo values not showing up. custno != custNo. Oh, and I was actually editing them successfully, apparently. I just didn't think I was because the CustNo was never showing up. I actually think I just passed a great milestone tonight. My app now successfully adds/edits/deletes DataMap entries. Next, I think I'll work on getting lookup tables added in.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
