@@ -290,7 +290,7 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 
 ### Day 31: February 1
 
-**Today's Progress**: ProgressGoesHere
+**Today's Progress**: The Edit Page lives!
 
 **Thoughts** I. Finally. Got it. Not the entire thing of course, just the Edit page. Turns out, I was using a naming convention/process when looking for the form controls by name that it couldn't find them. I didn't think this guide was this out of date, but apparently it needed more than just the MVC/Routing updates from before. I got a lot farther on this than I expected tonight. I'm able to Add new data map entries and I'm currently investigating why I can't Edit existing ones.
 
@@ -300,9 +300,18 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 
 ### Day 32: February 2
 
-**Today's Progress**: ProgressGoesHere
+**Today's Progress**: CustNo hide and seek
 
 **Thoughts** Camel case. Caaaaamel case. That's what my problem was with the CustNo values not showing up. custno != custNo. Oh, and I was actually editing them successfully, apparently. I just didn't think I was because the CustNo was never showing up. I actually think I just passed a great milestone tonight. My app now successfully adds/edits/deletes DataMap entries. Next, I think I'll work on getting lookup tables added in.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+
+### Day 33: January 3
+
+**Today's Progress**: The next step: Tables
+
+**Thoughts** I feel the next step step should be to add a Table view/page, which will allow you to filter by Table for your CustNo and see which Data 1 entries have had a Data 2 entry mapped and which have not. The idea right now is to have dropdowns for the Data 2 Value column, which will pull from another table I'll set up as the Data 2 lookup store. What that'll look like remains to be seen, but I'll start by copying the basic table layout of the main Data Maps page. Also started this on another branch, just to be safe.
 
 **Link to work:**  
 [DataMapper](https://github.com/bertbronaugh/DataMapper)
