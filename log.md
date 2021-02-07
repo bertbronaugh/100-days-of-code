@@ -316,6 +316,32 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 **Link to work:**  
 [DataMapper](https://github.com/bertbronaugh/DataMapper)
 
+### Day 34: January 4
+
+**Today's Progress**: Finishing MVC explainer
+
+**Thoughts** Phoned it in tonight. Finished reading the page for MVC. Not sure if I'll end up using this in the future, but it still looks pretty useful.
+
+**Link to work:** [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
+
+### Day 35: January 5
+
+**Today's Progress**: Tables work
+
+**Thoughts** Added the route, got the generated landing page to work. Now to copy the data-maps code to start with.
+
+**Link to work:** [DataMapper](https://github.com/bertbronaugh/DataMapper)
+
+### Day 36: January 6
+
+**Today's Progress**: More Tables work. Copy over complete.
+
+**Thoughts** Finished copying over the data-maps code, updating it, and making sure it loads correctly. Now working on getting a dropdown added and showing the Table groups.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+[Angular 9 Material](https://v9.material.angular.io/guide/getting-started)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
