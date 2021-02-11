@@ -342,6 +342,27 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 [DataMapper](https://github.com/bertbronaugh/DataMapper)
 [Angular 9 Material](https://v9.material.angular.io/guide/getting-started)
 
+### Day 37: January 9
+
+**Today's Progress**: Tinkering with mat-select
+
+**Thoughts** I broke the chain, unfortunately. I let myself skip Sunday night, but was too tired Monday night to hop on. Hoping to at least get a small bit done tonight.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+[Angular 9 Material](https://v9.material.angular.io/guide/getting-started)
+
+### Day 38: January 10
+
+**Today's Progress**: Tables displaying in the dropdown
+
+**Thoughts** Got the Table dropdown showing, albeit a few blank values. Digging into the API side, trying to figure out how to return a table list. Not sure if that'll be an API-level change or Angular level. Got the table to show the Table values, though I'm still trying to figure out how to filter by both the (newly added) CustNo field and the Table field.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+[Angular 9 Material](https://v9.material.angular.io/guide/getting-started)
+
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
