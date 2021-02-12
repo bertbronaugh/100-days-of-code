@@ -362,6 +362,14 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 [DataMapper](https://github.com/bertbronaugh/DataMapper)
 [Angular 9 Material](https://v9.material.angular.io/guide/getting-started)
 
+### Day 39: January 11
+
+**Today's Progress**: Table filter progress
+
+**Thoughts** Not much time tonight. I think I need to use an ngIf tag to conditionally show each row for the selected table, although that'll probably leave some empty rows. The right answer is to modify the incoming data itself and let ngFor do its thing unhindered, but I'm still working on figuring out how to do that on the backend.
+
+**Link to work:**  
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
 
 ### Day X: Month Day (Template)
 
