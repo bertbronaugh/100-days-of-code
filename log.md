@@ -371,6 +371,14 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 **Link to work:**  
 [DataMapper](https://github.com/bertbronaugh/DataMapper)
 
+### Day 40: January 17
+
+**Today's Progress**: ProgressGoesHere
+
+**Thoughts** I hadn't realized I'd skipped so many days. Part of it was a late schedule. Part of it was the crazy cold weather rocking all of Texas. Given how late it currently is, opted for some light coding exercises.
+
+**Link to work:** [CodeWars - Is He Gonna Survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c/solutions/typescript)
+
 ### Day X: Month Day (Template)
 
 **Today's Progress**: ProgressGoesHere
