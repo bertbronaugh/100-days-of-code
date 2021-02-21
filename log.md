@@ -373,11 +373,21 @@ Also, I have soooo much to learn about Git. I tried to be smart and ng new local
 
 ### Day 40: January 17
 
-**Today's Progress**: ProgressGoesHere
+**Today's Progress**: Code Kata
 
 **Thoughts** I hadn't realized I'd skipped so many days. Part of it was a late schedule. Part of it was the crazy cold weather rocking all of Texas. Given how late it currently is, opted for some light coding exercises.
 
 **Link to work:** [CodeWars - Is He Gonna Survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c/solutions/typescript)
+
+### Day 41: January 20
+
+**Today's Progress**: ProgressGoesHere
+
+**Thoughts** Skipped a couple of nights again. It's been hard to return back, partly because the challenge I feel is still before me (of getting this filtering and showing the tables/dropdowns the ways I want) still seems pretty daunting. I sometimes wonder if I set too high of a bar for this project, but then I remember how much this could help our team if it existed in a usable form. It's hard, especially when I'm learning on my own without any sort of curriculum or guided teaching, but I want to keep going. I know the challenges I overcome and lessons I'm learning will help me, and I want to keep going. Tonight, I tinkered around with filtering some more. I think I've found a good guide to help with the filtering, so we'll see how that turns out.
+
+**Link to work:**
+[DataMapper](https://github.com/bertbronaugh/DataMapper)
+[Dynamic filtering](https://blog.angulartraining.com/dynamic-filtering-with-rxjs-and-angular-forms-a-tutorial-6daa3c44076a)
 
 ### Day X: Month Day (Template)
 
